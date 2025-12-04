@@ -20,6 +20,7 @@ Here are a couple of projects I've worked on. You can find more in my repositori
 | Steel Quality Analysis|Built a regression model to predict the final temperature of a steel alloy, aiming to optimize energy consumption.|`Pandas`,`XGBoost`, `CatBoost`,`LightGBM`,`Scikit-learn`,`SHAP`|[Link](https://github.com/olgapoliana/steel_quality_analysis)|
 |Image Classification|Developed and fine-tuned a computer vision model using transfer learning to estimate a person's age from a photograph.|`Keras`, `MobileNetV2`, `Pandas`, `Matplotlib`|[Link](https://github.com/olgapoliana/image_classification)|
 |Prompt Pack Project|Interactive Noir Prompt Pack (1979 NYC): strict JSON contract (story/choices), immutable Episode-Book canon, trajectory-to-goal within turns_left, two vetted test scenarios (interrogation & apartment search).| `Markdown`, `Java Script`| [Link](https://github.com/olgapoliana/prompt_pack_for_the_iron_detective)|
+|Medical Editing Test|Developmental & line edit of a nonfiction health chapter: tracked edits + clean publishable version; focus on scientific clarity, structure, tone, and ethical framing.|||[Link](https://github.com/olgapoliana/medical-editing-test)|
 
 ## 📫 Let's Connect!
 
